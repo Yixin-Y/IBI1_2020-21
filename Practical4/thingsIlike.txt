@@ -1,4 +1,19 @@
-
-I like talk radio
-I like snow
-I like biscuits
+<<<<<<< HEAD
+I like potatoes.
+I like sky.
+I like blue.
+I like yellow.
+=======
+I like U2.
+I like bubbles.
+I like hiking.
+I like oranges.
+I like my country.
+I don't like yellow.
+>>>>>>> Alex
+I like reading.
+I like movies.
+I like my family very much.
+I like my friends.
+I like delicious food.
+I like travelling.
