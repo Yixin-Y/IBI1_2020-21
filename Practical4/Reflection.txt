@@ -1,0 +1,4 @@
+For me, things didn’t work well in this practical. I have faced these problems below: 
+1. I had some problems in “merge”. When I first created a branch, I accidentally created a new file to edit, so that two branches could “merge” perfectly which was not the step in the practical. When I did it for a second time, it can to an error when “merge” two branches together. So I used “mergetool” for help, but I didn’t know how to use it, and messed up all the commands.
+2. When I used the “git push origin master”, I couldn’t connect to the website and I spent a long time to “push”, even my computer stopped working. Therefore, I had to use my friends’ computers.
+3. When the computer is shutdown or we close the software, the commands I wrote before will disappear. It is quite difficult for me to remember the step I went.
