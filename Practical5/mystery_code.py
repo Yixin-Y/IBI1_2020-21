@@ -1,6 +1,6 @@
 # What does this piece of code do?
 
-# Answer: randomly print an integer "n" which is bigger than 0 and smaller than 5
+# Answer: print an integer "n" randomly and this "n" is bigger than 0 and smaller than 5
 
 
 
